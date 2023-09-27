@@ -24,7 +24,7 @@ $fontfam: 'Roboto Condensed', Roboto, sans-serif;
 body {font-family: $fontfam;font-size: 14px;font-weight: 400;color: var(--color2);background-image: url(../images/bgp1.jpg), url(../images/bg-bot.jpg);
   background-size: 200% auto, 200% auto;
   background-repeat: no-repeat;
-  background-position: center calc(50px * var(--ratio)), bottom center;;background-color:#e3e4eb;}
+  background-position: center calc(50px * var(--ratio)), bottom center;background-color:#e3e4eb;}
 * {outline: none;box-sizing: border-box;padding: 0;margin: 0;}
 a {text-decoration: none;transition: all 0.3s ease-in-out;}
 button {transition: all 0.7s ease-in-out !important;}
